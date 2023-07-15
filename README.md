@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sankalpayogi, The DevOps practitioner with strong determination.
+- 👋 Hi, I’m @Sankalpayogi, A DevOps practitioner with strong determination.
 - 👀 I’m interested in creativity
 - 🌱 I’m currently learning DevOps
 - 📫 How to reach me on
