@@ -2,6 +2,8 @@
 - 👀 I’m interested in creativity
 - 🌱 I’m currently learning DevOps
 - 📫 How to reach me
+
+
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prafulla-shinde-0342b490/)
 
 <!---
