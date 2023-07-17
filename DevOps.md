@@ -31,6 +31,17 @@
 - Continuous monitoring. ...
 - Infrastructure as code.
 
+# Tools & Stuff Used In DevOps
+| Tools | README |
+| ------ | ------ |
+| Linux(OS) | [plugins/dropbox/README.md][PlDb] |
+| GitHub | [plugins/github/README.md][PlGh] |
+| Maven | [plugins/googledrive/README.md][PlGd] |
+| Jenkins | [plugins/onedrive/README.md][PlOd] |
+| Docker | [plugins/medium/README.md][PlMe] |
+| Kubernets | [plugins/googleanalytics/README.md][PlGa] |
+| Terraform || [] |
+
 ***********************************************IgnoreBelowThisAsOfNow***************************************************
 
 Markdown is a lightweight markup language based on the formatting conventions
