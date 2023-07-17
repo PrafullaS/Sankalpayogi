@@ -41,6 +41,7 @@
 | Docker | [plugins/medium/README.md][PlMe] |
 | Kubernets | [plugins/googleanalytics/README.md][PlGa] |
 | Terraform || [] |
+| Ansible || [] |
 
 ***********************************************IgnoreBelowThisAsOfNow***************************************************
 
