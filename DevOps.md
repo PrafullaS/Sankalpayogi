@@ -4,6 +4,7 @@
 ![Alt Text](https://ralfneubauer.info/wp-content/uploads/2021/01/OpsZapDev.gif)
 
 # DevOps Lifrcycle
+![Alt Text](https://speedmedia.jfrog.com/08612fe1-9391-4cf3-ac1a-6dd49c36b276/https://media.jfrog.com/wp-content/uploads/2019/12/20130023/DEVOPS-DEFINED_INFINITY-ICON.png)
 - Plan - 
 -           Requirment finalization,Update new changes, Architecture & Design.
 - Code - 
@@ -22,11 +23,14 @@
 ![Alt Text](https://img.freepik.com/free-vector/programmers-working-project-illustration_335657-384.jpg?size=626&ext=jpg&ga=GA1.1.2004790278.1689593068&semt=sph)
 ## Features
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+- Respect the organization’s culture
+-  Performance monitor & management
+-  
+Continuous integration (CI). ...
+Continuous delivery. ...
+Continuous deployment (CD). ...
+Continuous monitoring. ...
+Infrastructure as code.
 
 Markdown is a lightweight markup language based on the formatting conventions
 that people naturally use in email.
