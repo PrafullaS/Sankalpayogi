@@ -43,7 +43,7 @@
 | Terraform || [] |
 | Ansible || [] |
 
-***********************************************IgnoreBelowThisAsOfNow***************************************************
+*********************************************** Ignore Below This As Of Now ***************************************************
 
 Markdown is a lightweight markup language based on the formatting conventions
 that people naturally use in email.
